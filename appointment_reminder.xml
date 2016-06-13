@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Transfer transferCallerId="+19192978765" transferTo="+19802853669."></Transfer>
+<Record requestUrl="/stepTransfer" terminatingDigits="1234*" maxDuration="60"></Record >
+<SpeakSentence voice="paul" gender="male" locale="en_US">This call is for Jennifer McLaughlin. This is Dr. Arrick calling to remind you of your appointment on June 28th at 8:30 AM. If you need to make any changes, please call us at 919-368-5336.</SpeakSentence>
+</Response>
